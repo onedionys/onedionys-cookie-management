@@ -1,6 +1,6 @@
 {
   "name": "onedionys-cookie-management",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Cookie Management) - Abstraction for reading, writing, and deleting cookies in web applications.",
   "main": "src/cookie.js",
   "directories": {
